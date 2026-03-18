@@ -5,7 +5,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/>
+  
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap" width="30"/>
 
   <!-- Bulma.io -->
  <img src="https://bulma.io/assets/brand/Bulma%20Icon.svg" width="30" />
