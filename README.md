@@ -6,7 +6,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/>
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bulma.svg" width="30" />
+
+  <!-- Bulma.io -->
+ <img src="https://bulma.io/assets/brand/Bulma%20Icon.svg" width="30" />
   
   <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg" width="30"/>
