@@ -20,50 +20,50 @@
   <img alt="alpine.js" src="https://github.com/user-attachments/assets/91473b44-898a-4206-b415-0aed0ba26d2e" width="40" height="40"/>
 
   <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="40" height="40"/>
 
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/SVG-Repo/svgs/logos/framer.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/alpinejs.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nextdotjs.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/SVG-Repo/svgs/logos/framer.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/alpinejs.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nextdotjs.svg" width="40" height="40"/>
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/livewire.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/volt.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/filament.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/tinker.png" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/sqlite.png" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/livewire.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/volt.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/filament.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/tinker.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sqlite.png" width="40" height="40"/>
 
   <!-- DevOps / Hosting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/render.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/hostinger.png" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/render.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/hostinger.png" width="40" height="40"/>
 
   <!-- Developer Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/table-plus.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/table-plus.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
   <!-- Design Tools -->
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" height="40"/>
 
   <!-- CMS / Page Builders -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/elementor.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/wpbakery.png" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/elementor.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/wpbakery.png" width="40" height="40"/>
 </p>
 
 <!--
