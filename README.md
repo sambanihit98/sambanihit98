@@ -2,23 +2,22 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="40" height="40"/>
 
   <!-- Bootstrap -->
-  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 
   <!-- Bulma.io -->
-  <img src="https://bulma.io/assets/brand/Bulma%20Icon.svg" width="30" />
+  <img src="https://bulma.io/assets/brand/Bulma%20Icon.svg" width="40" height="40"/>
   
   <!-- Tailwind CSS -->
-  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css" width="40" height="40"/>
   
   <!-- Alpine.js -->
-  <img alt="alpine.js" src="https://github.com/user-attachments/assets/91473b44-898a-4206-b415-0aed0ba26d2e" width="30"/>
-
+  <img alt="alpine.js" src="https://github.com/user-attachments/assets/91473b44-898a-4206-b415-0aed0ba26d2e" width="40" height="40"/>
 
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
