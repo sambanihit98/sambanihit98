@@ -21,8 +21,9 @@
 
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/SVG-Repo/svgs/logos/framer.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/alpinejs.svg" width="30"/>
