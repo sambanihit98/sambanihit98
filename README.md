@@ -9,9 +9,9 @@
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bulma.svg" width="30" />
   
   <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg" width="30"/>
   <!-- Alpine.js -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/alpinejs.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/alpinejs.svg" width="30"/>
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
   
