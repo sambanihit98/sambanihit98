@@ -6,14 +6,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/>
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bulma.svg" width="30" />
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bulma.svg" width="30" />
+  
+  <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/alpine-js.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" width="30"/>
+  <!-- Alpine.js -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/alpinejs.svg" width="30"/>
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/framer.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/aceternity.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/shadcn-ui.png" width="30"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/SVG-Repo/svgs/logos/framer.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/alpinejs.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nextdotjs.svg" width="30"/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
