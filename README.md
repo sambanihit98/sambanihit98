@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/bulma.png" width="30"/>
+  <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/alpine-js.png" width="30"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" width="30"/>
