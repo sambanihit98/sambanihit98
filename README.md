@@ -1,4 +1,9 @@
-## Hi there 👋
+### My Tech Stack
+
+![React Badge](https://img.shields.io)
+![Node.js Badge](https://img.shields.io)
+![Python Badge](https://img.shields.io)
+
 
 <!--
 **sambanihit98/sambanihit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
