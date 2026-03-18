@@ -17,7 +17,8 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css" width="30"/>
   
   <!-- Alpine.js -->
-  <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 234.84"><path fill="#77C1D2" d="M398.22 0L512 113.28 398.22 226.56 284.44 113.28z"/><path fill="#2D3441" d="M113.78 0l235.87 234.84H122.1L0 113.28z" width="30"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#77c1d2" fill-rule="evenodd" d="M98.444 35.562 126 62.997 98.444 90.432 70.889 62.997z" clip-rule="evenodd"/><path fill="#2d3441" fill-rule="evenodd" d="m29.556 35.562 57.126 56.876H31.571L2 62.997z" clip-rule="evenodd"/></svg>
+
   
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
