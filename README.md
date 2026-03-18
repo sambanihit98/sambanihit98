@@ -8,16 +8,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="30"/>
 
   <!-- Bootstrap -->
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap" width="30"/>
 
   <!-- Bulma.io -->
   <img src="https://bulma.io/assets/brand/Bulma%20Icon.svg" width="30" />
   
   <!-- Tailwind CSS -->
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css" width="30"/>
   
   <!-- Alpine.js -->
-  <img width="48" height="48" src="https://uxwing.com/alpinejs-logo-icon/" alt="tailwind_css" width="30"/>
+  <img alt="alpine.js" src="https://github.com/user-attachments/assets/91473b44-898a-4206-b415-0aed0ba26d2e" width="30"/>
+
 
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="30"/>
