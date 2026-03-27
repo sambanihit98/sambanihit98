@@ -1,5 +1,5 @@
-<p>
-  I’m a web developer specializing in building functional, user-focused websites and web-based applications using Laravel. I create responsive, well-structured solutions that are easy to manage, scalable, and aligned with real business needs—primarily using WordPress for websites and Laravel for application development.
+<p style="text-align:center;">
+  Hi! I’m a web developer specializing in building functional, user-focused websites and web-based applications using Laravel. I create responsive, well-structured solutions that are easy to manage, scalable, and aligned with real business needs—primarily using WordPress for websites and Laravel for application development.
 
 I have a background in IT support and web maintenance, which allows me to build systems with stability, security, and long-term usability in mind. I’ve also worked as a Lead Generation Specialist, where accuracy, data handling, and system reliability were essential—skills I now apply when developing data-driven features and backend logic.
 
