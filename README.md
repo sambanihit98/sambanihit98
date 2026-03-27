@@ -41,10 +41,11 @@ My work includes custom WordPress websites and web-based applications built with
   <!-- Laravel -->
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
   
-  <img src="https://img.icons8.com/ios-filled/50/000000/livewire.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/volt.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/filament.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/tinker.png" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+<img src="https://img.shields.io/badge/Volt-7C3AED?style=for-the-badge&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tinker-111827?style=for-the-badge&logo=php&logoColor=white" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/sqlite.png" width="40" height="40"/>
