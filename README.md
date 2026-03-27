@@ -39,7 +39,7 @@ My work includes custom WordPress websites and web-based applications built with
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
   <!-- Laravel -->
-  <img src="" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
   
   <img src="https://img.icons8.com/ios-filled/50/000000/livewire.png" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/volt.png" width="40" height="40"/>
