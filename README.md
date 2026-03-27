@@ -5,10 +5,13 @@ My work includes custom WordPress websites and web-based applications built with
 </p>
 
 <p align="center">
-  <!-- Frontend -->
+  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+  <!-- Javascript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  
+
+  <!-- JQuery -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="40" height="40"/>
 
   <!-- Bootstrap -->
@@ -31,8 +34,13 @@ My work includes custom WordPress websites and web-based applications built with
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+
+  <!-- Laravel -->
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://cdn.brandfetch.io/ide68-31CH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1751260985434)" width="40" height="40"/>
+  
   <img src="https://img.icons8.com/ios-filled/50/000000/livewire.png" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/volt.png" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/filament.png" width="40" height="40"/>
