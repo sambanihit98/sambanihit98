@@ -1,6 +1,7 @@
 <p align="center">
   Hi! I’m a web developer specializing in building functional, user-focused websites and web-based applications using Laravel. I create responsive, well-structured solutions that are easy to manage, scalable, and aligned with real business needs—primarily using WordPress for websites and Laravel for application development.</p>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/WPBakery-6F42C1?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+-->
 
 <!--
 **sambanihit98/sambanihit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
